@@ -1,5 +1,5 @@
 {
-  "name": "@risingstack/react-easy-state",
+  "name": "react-easy-state",
   "version": "0.0.0-development",
   "description": "React state management with a minimal API. Made with ES6 Proxies.",
   "main": "dist/cjs.es6.js",
