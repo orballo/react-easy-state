@@ -24,7 +24,8 @@
     "build": "rollup --config",
     "build-toc": "node ./scripts/buildToc.js",
     "semantic-release": "semantic-release",
-    "contributors": "all-contributors generate"
+    "contributors": "all-contributors generate",
+    "prepare": "npm run build"
   },
   "husky": {
     "hooks": {
